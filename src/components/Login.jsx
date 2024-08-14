@@ -136,7 +136,7 @@ export default function Home() {
 
                                             <label htmlFor="nameLab"> 
                                                 <ImLab  className="iconUserR"/>
-                                                <input type="text" id="nameLab"  placeholder="Nombre del laboratorioa" className="inputNameLab" required/>
+                                                <input type="text" id="nameLab"  placeholder="Nombre del laboratorio" className="inputNameLab" required/>
                                             </label>
 
                                             <span className="titleLab">Nombre de la pagina de su laboratorio en la nube: </span>
